@@ -1,0 +1,56 @@
+*{margin: 0%;
+padding: 0%;}
+
+.test{text-align: center;
+    color: black;}
+
+.hobby{background-color: red;
+text-align: justify;
+border-style: solid;
+margin: 20px;}
+.hobby_2{text-align: center;
+border: 20px 20px 20px 20px;
+margin: 10px;}
+.foto_1{width: 500px;
+border-style: dotted;
+margin: 10px;}
+
+.work{background-color: blue;
+    margin: 20px;
+    text-align: justify;
+    border-style: solid;}
+.text_2{text-align: center;
+margin: 10px;}
+.foto_2{width: 500px;
+    border-style: dotted;
+margin: 10px;}
+
+.friends{background-color: blueviolet;
+    margin: 20px;
+    text-align: justify;
+    border-style: solid;}
+.text_3{text-align: center;
+margin: 10px;}
+.foto_3{width: 500px;
+    border-style: dotted;
+margin: 10px;}
+
+.par_1{margin: 20px 20px 20px 20px;}
+.par_2{margin: 20px 20px 20px 20px;}
+.par_3{margin: 20px 20px 20px 20px;}
+
+.a{margin: 50px;}
+
+.logo_1{width: 50px;
+margin: 10px;}
+.logo_2{width: 50px;
+    margin: 10px;}
+.logo_3{width: 50px;
+    margin: 10px;}
+
+.logo_5{text-align: center;
+    border-style: solid;}
+
+
+
+
